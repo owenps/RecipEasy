@@ -7,7 +7,9 @@ Built in 24hrs for McHacks 7
 
 ## Technologies: 
 Language: Swift
+
 Text Recognition: Apple's MLVision and MLKit
+
 API: Spoonacular
 
 
